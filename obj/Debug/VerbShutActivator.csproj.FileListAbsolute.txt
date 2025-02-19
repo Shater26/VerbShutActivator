@@ -1,0 +1,9 @@
+G:\Prog\repos\VerbShutActivator\obj\Debug\VerbShutActivator.csproj.AssemblyReference.cache
+G:\Prog\repos\VerbShutActivator\obj\Debug\VerbShutActivator.Properties.Resources.resources
+G:\Prog\repos\VerbShutActivator\obj\Debug\VerbShutActivator.csproj.GenerateResource.cache
+G:\Prog\repos\VerbShutActivator\obj\Debug\VerbShutActivator.csproj.CoreCompileInputs.cache
+G:\Prog\repos\VerbShutActivator\bin\Debug\VerbShutActivator.exe.config
+G:\Prog\repos\VerbShutActivator\bin\Debug\VerbShutActivator.exe
+G:\Prog\repos\VerbShutActivator\bin\Debug\VerbShutActivator.pdb
+G:\Prog\repos\VerbShutActivator\obj\Debug\VerbShutActivator.exe
+G:\Prog\repos\VerbShutActivator\obj\Debug\VerbShutActivator.pdb
