@@ -135,6 +135,16 @@ namespace VerbShutActivator
             return false;
         }
 
+        private void exitToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            Application.Exit();
+        }
+
+        private void acercaDeToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            AboutBox about = new AboutBox();
+            about.ShowDialog();
+        }
         private void Form1_Load(object sender, EventArgs e)
         {
         }
